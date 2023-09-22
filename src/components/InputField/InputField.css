@@ -1,0 +1,11 @@
+.InputField{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    margin: 1vh 0 3vh 0;
+    width: 40vw;
+    border: 1.5px solid rgb(192, 37, 181);
+    padding: .3rem .8rem;
+}
